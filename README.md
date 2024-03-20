@@ -6,7 +6,9 @@
  
  💞️ I’m looking to collaborate on different Developers
  
- 📫 How to reach me saglam.354270@gmail.com and https://www.linkedin.com/inin/ibrahim-sağlam-b3446a279
+ 📫 How to reach me saglam.354270@gmail.com and https://www.linkedin.com/in/ibrahim-saglam
+
+ Full-Stack Developer - IT Manager || Java | Spring System  | JDBC | Hibernate | Web Services - Restful API | HTML | CSS | Bootstrap | JavaScript | React | SASS | MySQL | PostgreSQL | MongoDB | Git - GitHub
 
 
 <!---
