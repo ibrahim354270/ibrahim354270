@@ -2,7 +2,7 @@
 
  👀 I’m interested in Full Stack Java Developer
  
- 🌱 I’m currently learning Back End in Javascript
+ 🌱 I’m currently learning FrontEnd in Javascript
  
  💞️ I’m looking to collaborate on different Developers
  
